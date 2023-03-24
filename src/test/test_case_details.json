@@ -1,0 +1,44 @@
+[
+    {
+        "test_case_name_enum": "com.example.player.PlayerControllerTests.testgetPlayers"
+    },
+    {
+        "test_case_name_enum": "com.example.player.PlayerControllerTests.testgetNotFound"
+    },
+    {
+        "test_case_name_enum": "com.example.player.PlayerControllerTests.testgetPlayerById"
+    },
+    {
+        "test_case_name_enum": "com.example.player.PlayerControllerTests.testpost"
+    },
+    {
+        "test_case_name_enum": "com.example.player.PlayerControllerTests.testafterpost"
+    },
+    {
+        "test_case_name_enum": "com.example.player.PlayerControllerTests.testDbAfterPost"
+    },
+    {
+        "test_case_name_enum": "com.example.player.PlayerControllerTests.testputNotFound"
+    },
+    {
+        "test_case_name_enum": "com.example.player.PlayerControllerTests.testput"
+    },
+    {
+        "test_case_name_enum": "com.example.player.PlayerControllerTests.testafterput"
+    },
+    {
+        "test_case_name_enum": "com.example.player.PlayerControllerTests.testDbAfterPut"
+    },
+    {
+        "test_case_name_enum": "com.example.player.PlayerControllerTests.testdeleteNotFound"
+    },
+    {
+        "test_case_name_enum": "com.example.player.PlayerControllerTests.testdelete"
+    },
+    {
+        "test_case_name_enum": "com.example.player.PlayerControllerTests.testafterdelete"
+    },
+    {
+        "test_case_name_enum": "com.example.player.SmokeTest.contextLoads"
+    }
+]
